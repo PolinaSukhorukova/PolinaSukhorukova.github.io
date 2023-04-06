@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.725e76f3.css",
+    "main.js": "/static/js/main.f745eb30.js",
+    "static/media/erik-ringsmuth-HURF7r5vunI-unsplash.jpg": "/static/media/erik-ringsmuth-HURF7r5vunI-unsplash.24abdbb3c26a542aac56.jpg",
+    "static/media/pick.jpg": "/static/media/pick.1161ea55d181c2ff2470.jpg",
+    "static/media/mountain2.jpg": "/static/media/mountain2.0e68655fa6488716f9f5.jpg",
+    "static/media/mountain3.jpg": "/static/media/mountain3.01b5bebcd243bff71a0d.jpg",
+    "static/media/flatiron.jpg": "/static/media/flatiron.2beee8d8a97b66e0def6.jpg",
+    "static/media/above.jpg": "/static/media/above.209739a3ead8531ba5a3.jpg",
+    "static/media/mountain1.jpg": "/static/media/mountain1.e052c6868464d70ac5ff.jpg",
+    "static/media/canyon.jpg": "/static/media/canyon.688afa2ace547703e1d7.jpg",
+    "static/media/bg.jpg": "/static/media/bg.1dc54e6baec4ee8e3a57.jpg",
+    "static/media/road.jpg": "/static/media/road.b72f8910d7a1bbba1617.jpg",
+    "static/media/hakone.jpg": "/static/media/hakone.8f0e6e636889814a2869.jpg",
+    "static/media/gate.jpg": "/static/media/gate.bb5d7014e0e06944b7d9.jpg",
+    "static/media/lake.jpg": "/static/media/lake.a709977ce4acd01144f4.jpg",
+    "static/media/instagram.svg": "/static/media/instagram.116ad97e1f8e0638fcb7d5aed6800697.svg",
+    "static/media/twitter.svg": "/static/media/twitter.0407223bb7bca83e1349f743cc8849a2.svg",
+    "static/media/facebook-f.svg": "/static/media/facebook-f.3393a8700aa477db6175ff91ae54d6a2.svg",
+    "index.html": "/index.html",
+    "main.725e76f3.css.map": "/static/css/main.725e76f3.css.map",
+    "main.f745eb30.js.map": "/static/js/main.f745eb30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.725e76f3.css",
+    "static/js/main.f745eb30.js"
+  ]
+}
